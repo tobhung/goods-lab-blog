@@ -3,9 +3,12 @@ tagline: Honest Unboxing Reviews & Smart Storage Picks
 description: >-
   GoodsLab covers real-world unboxing reviews and home storage recommendations,
   built from hands-on testing so you can buy smarter and skip the duds.
-# After connecting your Cloudflare domain, change the url below to your real domain, e.g. "https://www.example.com"
+# Currently served as a GitHub Pages *project* site at https://tobhung.github.io/goods-lab-blog/,
+# so baseurl must be "/goods-lab-blog" or all asset/internal links 404.
+# Once you connect your Cloudflare domain (which serves from the root), set url to your domain
+# and change baseurl back to "" — see README.md for the full custom-domain steps.
 url: ""
-baseurl: ""
+baseurl: "/goods-lab-blog"
 lang: en
 locale: en_US
 
