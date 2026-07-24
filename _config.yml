@@ -1,0 +1,43 @@
+title: 好物研究所
+tagline: 開箱 × 收納，生活選物知識庫
+description: >-
+  好物研究所專注生活家電開箱評測與居家收納推薦，
+  用第一手實測心得，幫你少踩雷、選對好物。
+# 之後串接 Cloudflare 網域後，把下面 url 改成你的正式網址，例如 "https://www.example.com"
+url: ""
+baseurl: ""
+lang: zh-Hant
+locale: zh-TW
+
+author:
+  name: 好物研究所編輯部
+
+# 分類使用中文字串即可，Jekyll 會自動依 categories 建立索引（site.categories）
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /articles/:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules

@@ -1,0 +1,43 @@
+---
+layout: default
+title: 首頁
+---
+<section class="hero">
+  <div class="wrap">
+    <span class="hero__eyebrow">知識型生活選物網站</span>
+    <h1 class="hero__title">開箱評測 × 收納推薦，<br>幫你少踩雷、選對好物。</h1>
+    <p class="hero__desc">{{ site.description }}</p>
+    <div class="hero__cats">
+      <a class="badge badge--unboxing" href="{{ '/category-unboxing.html' | relative_url }}">看所有開箱文</a>
+      <a class="badge badge--storage" href="{{ '/category-storage.html' | relative_url }}">看所有收納推薦</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <h2 class="section__title">最新文章</h2>
+    </div>
+    <div class="post-grid">
+      {% for post in site.posts %}
+      {% assign main_cat = post.categories | first %}
+      <a class="card" href="{{ post.url | relative_url }}">
+        <div class="card__image">
+          {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+          {% endif %}
+        </div>
+        <div class="card__body">
+          {% if main_cat %}
+          <span class="badge {% if main_cat == '開箱文' %}badge--unboxing{% elsif main_cat == '收納推薦' %}badge--storage{% endif %}">{{ main_cat }}</span>
+          {% endif %}
+          <h3 class="card__title">{{ post.title }}</h3>
+          <p class="card__excerpt">{{ post.excerpt | strip_html | truncate: 70 }}</p>
+          <span class="card__meta">{{ post.date | date: "%Y/%m/%d" }}</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
