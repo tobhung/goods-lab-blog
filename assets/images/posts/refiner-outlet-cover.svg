@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Refiner cable management outlet cover placeholder image">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8cd9c"/>
+      <stop offset="100%" stop-color="#b8863e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g4)"/>
+  <circle cx="1040" cy="120" r="220" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="650" r="240" fill="#2b2621" opacity="0.06"/>
+
+  <!-- abstract outlet wall plate with cord loop -->
+  <g transform="translate(480,145)" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.92">
+    <rect x="0" y="0" width="240" height="360" rx="20"/>
+    <rect x="55" y="60" width="26" height="60" rx="13"/>
+    <rect x="159" y="60" width="26" height="60" rx="13"/>
+    <line x1="68" y1="120" x2="68" y2="150"/>
+    <line x1="172" y1="120" x2="172" y2="150"/>
+    <path d="M 40 260 L 40 300 Q 40 330 70 330 L 300 330 Q 340 330 340 290 L 340 250" stroke-dasharray="1 22"/>
+  </g>
+
+  <text x="60" y="700" font-family="Arial, sans-serif" font-size="26" fill="#ffffff" opacity="0.85">GoodsLab · placeholder cover image, swap for real product photos</text>
+</svg>

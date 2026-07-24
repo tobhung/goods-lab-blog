@@ -1,19 +1,19 @@
 ---
 layout: default
-title: 收納推薦
+title: Storage Picks
 ---
 <section class="hero">
   <div class="wrap">
-    <span class="hero__eyebrow" style="background:var(--accent-storage-bg);color:var(--accent-storage);">分類</span>
-    <h1 class="hero__title">收納推薦</h1>
-    <p class="hero__desc">從坪數、動線到收納好物推薦，讓家裡更好整理。</p>
+    <span class="hero__eyebrow" style="background:var(--accent-storage-bg);color:var(--accent-storage);">Category</span>
+    <h1 class="hero__title">Storage Picks</h1>
+    <p class="hero__desc">Layout ideas, organization tips, and product recommendations for tighter, tidier spaces.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="wrap">
     <div class="post-grid">
-      {% assign posts = site.categories['收納推薦'] %}
+      {% assign posts = site.categories['Storage'] %}
       {% for post in posts %}
       <a class="card" href="{{ post.url | relative_url }}">
         <div class="card__image">
@@ -22,14 +22,14 @@ title: 收納推薦
           {% endif %}
         </div>
         <div class="card__body">
-          <span class="badge badge--storage">收納推薦</span>
+          <span class="badge badge--storage">Storage</span>
           <h3 class="card__title">{{ post.title }}</h3>
           <p class="card__excerpt">{{ post.excerpt | strip_html | truncate: 70 }}</p>
-          <span class="card__meta">{{ post.date | date: "%Y/%m/%d" }}</span>
+          <span class="card__meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
       </a>
       {% else %}
-      <p>目前還沒有文章，敬請期待。</p>
+      <p>No articles yet — check back soon.</p>
       {% endfor %}
     </div>
   </div>

@@ -1,53 +1,53 @@
 ---
-title: "小米掃拖機器人開箱評測：三大重點決定值不值得入手"
+title: "Xiaomi Robot Vacuum-Mop Review: 3 Things That Decide If It's Worth It"
 date: 2026-06-25 09:00:00 +0800
-categories: [開箱文]
-tags: [掃地機器人, 小家電, 小米]
+categories: [Unboxing]
+tags: [Robot Vacuum, Small Appliances, Xiaomi]
 image: /assets/images/posts/xiaomi-vacuum.svg
 ---
 
-想解放雙手又不想花太多預算，是很多人考慮掃地機器人的第一步。這篇整理小米掃拖機器人開箱後的實測心得，從規劃能力、清潔力到 App 操作體驗，一次講清楚。
+Wanting your hands free without blowing the budget is usually the first reason people look at robot vacuums. Here's what I found after unboxing and living with a Xiaomi robot vacuum-mop — navigation, cleaning power, and the app experience, all in one place.
 
-## 開箱內容物
+## What's in the Box
 
-- 主機（含滾刷、邊刷）
-- 充電座與電源線
-- 水箱／拖布模組
-- 備用邊刷、濾網
-- 快速使用指南
+- Main unit (with roller brush and side brush)
+- Charging dock and power cable
+- Water tank / mop module
+- Spare side brush and filter
+- Quick start guide
 
-初次設定需要下載 App 綁定帳號，並讓機器人跑一次全屋建圖，整個流程大約 15-20 分鐘，比想像中簡單。
+First-time setup means downloading the app, linking your account, and letting the robot run one full mapping pass — the whole process took about 15-20 minutes, easier than I expected.
 
-## 重點一：路徑規劃
+## 1. Navigation and Mapping
 
-實測兩房一廳格局，第一次建圖後，之後每次清掃都能依照房間分區進行，也能在 App 上設定「禁區」跟「虛擬牆」，避免它闖進電線多的區域。整體規劃邏輯清楚，很少出現重複打掃同一區、卻漏掉角落的情況。
+In a two-bedroom, one-living-room layout, the first mapping run let every cleaning session after that follow a clean room-by-room pattern. You can also set no-go zones and virtual walls in the app to keep it away from cable clutter. The logic is solid — it rarely double-cleans one area while missing a corner elsewhere.
 
-## 重點二：清潔力表現
+## 2. Cleaning Performance
 
-- **硬地板**：毛髮、灰塵吸得乾淨，滾刷也不太會卡毛
-- **地毯**：吸力自動偵測並提升，但深層清潔還是不如手持吸塵器
-- **拖地功能**：淡層髒污可以順便拖過一次，但油污、頑固髒污還是需要人工處理
+- **Hardwood floors**: Picks up hair and dust cleanly, and the roller brush resists tangling
+- **Carpet**: Suction auto-boosts on carpet, but deep cleaning still can't match a handheld vacuum
+- **Mopping**: Handles light surface grime fine, but oil stains and stubborn spots still need manual attention
 
-整體來說，日常維持地板乾淨綽綽有餘，但如果家裡地毯多或有小孩打翻食物的狀況，建議還是搭配定期手動深層清潔。
+Overall it's more than enough for day-to-day floor maintenance, but if you have heavy carpet or kids spilling food, plan on a periodic manual deep clean too.
 
-## 重點三：App 與智慧功能
+## 3. App and Smart Features
 
-App 介面直覺，可以排程時間、選擇清掃房間、查看清潔紀錄地圖，也支援語音助理連動。唯一比較可惜的是雲端地圖偶爾需要重新校正，尤其在移動過大型家具之後。
+The app is intuitive — scheduling, room selection, cleaning history maps, and voice assistant integration are all there. The one downside: the cloud map occasionally needs recalibrating, especially after moving large furniture around.
 
-## 優缺點整理
+## Pros and Cons
 
-**優點**
+**Pros**
 
-- 建圖與分區清掃邏輯清楚，好上手
-- App 功能齊全，排程、禁區設定方便
-- 拖地功能對日常維護很實用
+- Clear mapping and zone-based cleaning logic, easy to pick up
+- Full-featured app with easy scheduling and no-go zones
+- Mopping function is genuinely useful for daily upkeep
 
-**缺點**
+**Cons**
 
-- 地毯深層清潔力有限
-- 大型家具移動後偶爾需要重新建圖
-- 拖布模組需要手動清洗，不是全自動免洗款
+- Limited deep-cleaning power on carpet
+- Occasionally needs remapping after moving large furniture
+- Mop module needs manual washing — not a fully self-cleaning setup
 
-## 值不值得買？
+## Is It Worth Buying?
 
-如果你的需求是「日常維持地板乾淨、減少手動掃地頻率」，這台的表現已經很夠用，價格帶也相對親民；但如果重度依賴深層清潔或家裡地毯較多，建議搭配一台手持吸塵器做重點清潔，兩者互補效果最好。
+If your goal is "keep the floors decent day to day and cut down on manual sweeping," this delivers more than enough at a fairly approachable price. But if you lean heavily on deep cleaning or have a lot of carpet, pairing it with a handheld vacuum for spot cleaning is the better combo.

@@ -5,14 +5,14 @@ layout: default
 <article class="wrap post">
   <header class="post__header">
     {% if main_cat %}
-      <a class="badge {% if main_cat == '開箱文' %}badge--unboxing{% elsif main_cat == '收納推薦' %}badge--storage{% endif %}"
-         href="{% if main_cat == '開箱文' %}{{ '/category-unboxing.html' | relative_url }}{% elsif main_cat == '收納推薦' %}{{ '/category-storage.html' | relative_url }}{% endif %}">
+      <a class="badge {% if main_cat == 'Unboxing' %}badge--unboxing{% elsif main_cat == 'Storage' %}badge--storage{% endif %}"
+         href="{% if main_cat == 'Unboxing' %}{{ '/category-unboxing.html' | relative_url }}{% elsif main_cat == 'Storage' %}{{ '/category-storage.html' | relative_url }}{% endif %}">
         {{ main_cat }}
       </a>
     {% endif %}
     <h1 class="post__title">{{ page.title }}</h1>
     <p class="post__meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y年%m月%d日" }}</time>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       {% if page.author %} · {{ page.author }}{% else %} · {{ site.author.name }}{% endif %}
     </p>
   </header>
@@ -34,6 +34,6 @@ layout: default
   {% endif %}
 
   <div class="post__back">
-    <a href="{{ '/' | relative_url }}">&larr; 回首頁看更多文章</a>
+    <a href="{{ '/' | relative_url }}">&larr; Back to homepage for more articles</a>
   </div>
 </article>

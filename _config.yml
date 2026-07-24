@@ -1,18 +1,18 @@
-title: 好物研究所
-tagline: 開箱 × 收納，生活選物知識庫
+title: GoodsLab
+tagline: Honest Unboxing Reviews & Smart Storage Picks
 description: >-
-  好物研究所專注生活家電開箱評測與居家收納推薦，
-  用第一手實測心得，幫你少踩雷、選對好物。
-# 之後串接 Cloudflare 網域後，把下面 url 改成你的正式網址，例如 "https://www.example.com"
+  GoodsLab covers real-world unboxing reviews and home storage recommendations,
+  built from hands-on testing so you can buy smarter and skip the duds.
+# After connecting your Cloudflare domain, change the url below to your real domain, e.g. "https://www.example.com"
 url: ""
 baseurl: ""
-lang: zh-Hant
-locale: zh-TW
+lang: en
+locale: en_US
 
 author:
-  name: 好物研究所編輯部
+  name: GoodsLab Editorial Team
 
-# 分類使用中文字串即可，Jekyll 會自動依 categories 建立索引（site.categories）
+# Categories are plain strings, Jekyll auto-indexes them under site.categories
 markdown: kramdown
 kramdown:
   input: GFM

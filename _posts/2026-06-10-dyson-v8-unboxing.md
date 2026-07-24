@@ -1,54 +1,54 @@
 ---
-title: "Dyson V8 開箱實測：用滿一個月，這些優缺點一定要先知道"
+title: "Dyson V8 Unboxing: What I Learned After a Full Month of Real Use"
 date: 2026-06-10 09:00:00 +0800
-categories: [開箱文]
-tags: [吸塵器, 小家電, Dyson]
+categories: [Unboxing]
+tags: [Vacuum, Small Appliances, Dyson]
 image: /assets/images/posts/dyson-v8.svg
 ---
 
-家裡養寵物又鋪地毯，掃地機器人始終掃不乾淨邊角，最後還是敗下去買了 Dyson V8。這篇是實際開箱、使用滿一個月後的心得整理，把優缺點都寫清楚，讓你評估值不值得入手。
+Between the pet hair and the carpeted rooms, our robot vacuum was never quite cutting it in the corners, so we finally caved and bought a Dyson V8. This is the unboxing writeup plus everything I learned after a full month of daily use — pros, cons, and whether it's actually worth the money.
 
-## 開箱內容物
+## What's in the Box
 
-打開包裝後，主要配件如下：
+Once you open it up, here's what you get:
 
-- 主機（含電池、集塵桶）
-- 直立充電座
-- 高扭力吸頭、蓬鬆吸頭
-- 縫隙吸頭、二合一毛刷吸頭
-- 壁掛式收納配件盒
+- Main unit (battery and dust bin included)
+- Wall-mounted charging dock
+- High-torque cleaner head and soft roller head
+- Crevice tool and 2-in-1 dusting brush
+- Wall-mounted accessory storage clip
 
-配件比想像中多，官方也附上簡易圖解說明書，第一次組裝大約 5 分鐘就能上手，不需要工具。
+There are more accessories than I expected, and the included illustrated guide made setup painless — first assembly took about 5 minutes, no tools required.
 
-## 外觀與規格
+## Build and Specs
 
-V8 的機身比想像中輕，實測空機重量落在 2.61 公斤左右，單手舉高清天花板角落也不會太吃力。集塵桶採用「一鍵彈出」設計，倒垃圾時完全不用碰到灰塵，這點對過敏體質的人來說很加分。
+The V8 is lighter than it looks. On my scale it came in at roughly 2.61 kg (5.75 lb) empty, light enough to hold one-handed while cleaning ceiling corners. The dust bin uses a one-button "point and shoot" eject, so you never have to touch the dust directly — a real plus if you deal with allergies.
 
-電池續航力方面，一般吸力模式下官方標示約 40 分鐘，實測在混合硬地板與地毯的兩房一廳環境下，開一般模式打掃完整層樓，電量大約還剩三分之一，日常使用綽綽有餘。
+Dyson rates battery life at around 40 minutes on standard suction. In practice, cleaning a full two-bedroom apartment with mixed hardwood and carpet on the standard setting left me with roughly a third of the battery remaining — plenty for daily use.
 
-## 實際使用心得
+## Real-World Impressions
 
-1. **吸力表現**：地毯深層的貓毛、餅乾屑一次就能吸乾淨，開強力模式效果更明顯，但噪音也會拉高。
-2. **重量與手感**：直立式設計操作起來比傳統吸塵器輕鬆，但清天花板、窗簾等高處時，手臂久了還是會痠。
-3. **收納**：牆面充電座安裝後非常方便，用完直接歸位充電，不用另外找地方擺，也不占地面空間。
-4. **噪音**：一般模式在可接受範圍，強力模式偏大聲，晚上使用建議避開低分貝需求的時段。
+1. **Suction power**: It pulls embedded pet hair and crumbs out of carpet in a single pass. Max mode makes an even bigger difference, but the noise jumps noticeably too.
+2. **Weight and handling**: The stick design is far easier on the arm than a traditional upright, but reaching ceilings and curtains for extended periods still leaves my arm tired.
+3. **Storage**: The wall dock is genuinely convenient — you just slot it back in to charge, no dedicated floor space needed.
+4. **Noise**: Standard mode is easy to live with; max mode is loud enough that I avoid it late at night.
 
-> 小提醒：集塵桶建議每次使用後就清空，累積太多灰塵會明顯影響吸力表現。
+> Tip: Empty the dust bin after every use. Letting it fill up noticeably tanks the suction.
 
-## 優缺點整理
+## Pros and Cons
 
-**優點**
+**Pros**
 
-- 吸力強，尤其對付寵物毛、地毯深層灰塵效果好
-- 免手碰倒垃圾設計，對過敏族群友善
-- 充電座收納方便，不占空間
+- Strong suction, especially on pet hair and deep carpet dust
+- Touch-free bin emptying — great for allergy sufferers
+- Wall dock makes storage effortless and saves floor space
 
-**缺點**
+**Cons**
 
-- 續航力在強力模式下會明顯縮短
-- 高處清潔久了手臂容易痠
-- 強力模式噪音偏大
+- Battery life drops fast on max mode
+- Arm fatigue after extended overhead cleaning
+- Max mode is noticeably loud
 
-## 值不值得買？
+## Is It Worth Buying?
 
-如果家裡有寵物、地毯，或本來就對吸力有一定要求，V8 用滿一個月下來，我覺得是值得的投資；但如果只是單純硬地板小坪數，其實中階款或掃地機器人搭配手持除塵，CP 值可能更高。購買前建議先想清楚自己的居家環境，再決定要不要入手。
+If you've got pets, carpet, or just expect strong suction, a month of daily use has convinced me the V8 earns its price tag. But if you're in a small, all-hardwood space, a mid-tier model or a robot vacuum plus a handheld for spot-cleaning might give you better value. Think through your actual living situation before you commit.

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+{% assign main_cat = page.categories | first %}
+<article class="wrap review">
+  <header class="review__header">
+    <span class="badge badge--pick">Editor's Pick</span>
+    <h1 class="review__title">{{ page.title }}</h1>
+    <p class="review__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.author %} · {{ page.author }}{% else %} · {{ site.author.name }}{% endif %}
+    </p>
+  </header>
+
+  <div class="review__hero">
+    {% if page.image %}
+    <div class="review__hero-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="eager">
+    </div>
+    {% endif %}
+
+    <aside class="review__panel">
+      <p class="review__panel-label">Quick Facts</p>
+      <dl class="review__facts">
+        {% if page.brand %}<dt>Brand</dt><dd>{{ page.brand }}</dd>{% endif %}
+        {% if page.best_for %}<dt>Best For</dt><dd>{{ page.best_for }}</dd>{% endif %}
+        {% if main_cat %}<dt>Category</dt><dd>{{ main_cat }}</dd>{% endif %}
+      </dl>
+      <a class="btn-cta" href="{{ page.buy_url | default: '#' }}" target="_blank" rel="noopener sponsored">Check Price on Amazon</a>
+      <p class="review__disclaimer">We may earn a commission from qualifying purchases, at no extra cost to you.</p>
+    </aside>
+  </div>
+
+  <div class="review__content post__content">
+    {{ content }}
+  </div>
+
+  {% if page.pros or page.cons %}
+  <div class="pros-cons">
+    {% if page.pros %}
+    <div class="pros-cons__col pros-cons__col--pros">
+      <h3>What We Like</h3>
+      <ul>{% for item in page.pros %}<li>{{ item }}</li>{% endfor %}</ul>
+    </div>
+    {% endif %}
+    {% if page.cons %}
+    <div class="pros-cons__col pros-cons__col--cons">
+      <h3>What Could Be Better</h3>
+      <ul>{% for item in page.cons %}<li>{{ item }}</li>{% endfor %}</ul>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <div class="review__cta-bottom">
+    <a class="btn-cta" href="{{ page.buy_url | default: '#' }}" target="_blank" rel="noopener sponsored">Check Price on Amazon</a>
+  </div>
+
+  {% if page.tags and page.tags.size > 0 %}
+  <div class="post__tags">
+    {% for tag in page.tags %}<span class="tag">#{{ tag }}</span>{% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="post__back">
+    <a href="{{ '/' | relative_url }}">&larr; Back to homepage for more articles</a>
+  </div>
+</article>

@@ -1,19 +1,19 @@
 ---
 layout: default
-title: 開箱文
+title: Unboxing
 ---
 <section class="hero">
   <div class="wrap">
-    <span class="hero__eyebrow badge--unboxing" style="background:var(--accent-unboxing-bg);color:var(--accent-unboxing);">分類</span>
-    <h1 class="hero__title">開箱文</h1>
-    <p class="hero__desc">實際入手、實測使用心得，幫你判斷值不值得買。</p>
+    <span class="hero__eyebrow badge--unboxing" style="background:var(--accent-unboxing-bg);color:var(--accent-unboxing);">Category</span>
+    <h1 class="hero__title">Unboxing</h1>
+    <p class="hero__desc">Real hands-on impressions from actual purchases, so you know what you're getting into.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="wrap">
     <div class="post-grid">
-      {% assign posts = site.categories['開箱文'] %}
+      {% assign posts = site.categories['Unboxing'] %}
       {% for post in posts %}
       <a class="card" href="{{ post.url | relative_url }}">
         <div class="card__image">
@@ -22,14 +22,14 @@ title: 開箱文
           {% endif %}
         </div>
         <div class="card__body">
-          <span class="badge badge--unboxing">開箱文</span>
+          <span class="badge badge--unboxing">Unboxing</span>
           <h3 class="card__title">{{ post.title }}</h3>
           <p class="card__excerpt">{{ post.excerpt | strip_html | truncate: 70 }}</p>
-          <span class="card__meta">{{ post.date | date: "%Y/%m/%d" }}</span>
+          <span class="card__meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
       </a>
       {% else %}
-      <p>目前還沒有文章，敬請期待。</p>
+      <p>No articles yet — check back soon.</p>
       {% endfor %}
     </div>
   </div>

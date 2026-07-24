@@ -1,22 +1,22 @@
 ---
 layout: page
-title: 關於我們
+title: About
 permalink: /about.html
 ---
 
-好物研究所是一個知識型生活選物網站，專注兩件事：**開箱評測** 與 **收納推薦**。
+GoodsLab is a knowledge-first product blog focused on two things: **unboxing reviews** and **storage recommendations**.
 
-我們相信買東西前多做一點功課，就能少花很多冤枉錢。每一篇文章都會盡量涵蓋：
+We believe a little homework before you buy saves a lot of regret after. Every article aims to cover:
 
-- 實際使用情境與心得，不只是規格搬運
-- 優缺點誠實列出，值不值得買讓你自己判斷
-- 收納類文章會附上坪數、動線等實際條件，方便對照自己的家
+- Real usage impressions, not just a spec sheet rewritten
+- Honest pros and cons, so you can decide if it's worth it
+- For storage articles, the actual space constraints (square footage, layout) so you can compare against your own home
 
-## 內容分類
+## Content Categories
 
-- **開箱文**：家電、生活用品的實測開箱，記錄第一次使用的真實感受
-- **收納推薦**：依空間類型（套房、小坪數、儲藏室等）整理的收納好物與方法
+- **Unboxing**: Hands-on first impressions of appliances and everyday products, based on real purchases
+- **Storage Picks**: Storage products and methods organized by space type — studios, small apartments, closets, and more
 
-## 聯絡我們
+## Contact Us
 
-如果你有想看的開箱主題，或想合作，歡迎透過信箱與我們聯繫（記得替換成你自己的聯絡信箱）。
+Have a product you'd like us to review, or want to collaborate? Reach out by email (swap in your own contact address here).
