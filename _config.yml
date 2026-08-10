@@ -12,6 +12,8 @@ locale: en_US
 author:
   name: GoodsLab Editorial Team
 
+google_analytics: G-2LK0V1X66F
+
 # Categories are plain strings, Jekyll auto-indexes them under site.categories
 markdown: kramdown
 kramdown:
