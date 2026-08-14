@@ -3,7 +3,10 @@ title: "How to Mount a TV and Hide the Cables in One Weekend"
 date: 2026-07-08 09:00:00 +0800
 categories: [Storage]
 tags: [tv mount cable concealer, cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/6020432/pexels-photo-6020432.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "yair elgazar"
+photo_credit_url: "https://www.pexels.com/@yair-elgazar-7861228/"
+photo_license: "Pexels License"
 ---
 
 Mounting a TV is usually the easy part — most mounts are a weekend project on their own. The part that gets skipped, and then bothers you every day afterward, is the cable run down to the outlet. Here's how to do both in one pass.

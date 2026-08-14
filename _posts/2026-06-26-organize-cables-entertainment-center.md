@@ -3,7 +3,10 @@ title: "How to Organize Cables Behind Your Entertainment Center"
 date: 2026-06-26 09:00:00 +0800
 categories: [Storage]
 tags: [cable management, tv mount cable concealer]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Pixabay"
+photo_credit_url: "https://www.pexels.com/@pixabay/"
+photo_license: "Pexels License"
 ---
 
 An entertainment center usually has the densest cable management problem in the house: a TV, a streaming box, a game console, maybe a soundbar or receiver, and a power strip trying to feed all of it. Here's how to actually get it under control instead of just shoving it out of view.

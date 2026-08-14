@@ -3,7 +3,10 @@ title: "Cord Covers vs. Cord Hiders vs. Cable Sleeves: What's the Difference?"
 date: 2026-07-16 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider, cord management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/8132431/pexels-photo-8132431.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Anna Pou"
+photo_credit_url: "https://www.pexels.com/@anna-pou/"
+photo_license: "Pexels License"
 ---
 
 These three terms get used almost interchangeably in product listings, which makes shopping for the right one harder than it should be. Here's what actually distinguishes them.

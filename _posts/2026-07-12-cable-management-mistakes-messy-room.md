@@ -3,7 +3,10 @@ title: "Cable Management Mistakes That Make Any Room Look Messy"
 date: 2026-07-12 09:00:00 +0800
 categories: [Storage]
 tags: [cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/25223697/pexels-photo-25223697.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Jakub Zerdzicki"
+photo_credit_url: "https://www.pexels.com/@jakubzerdzicki/"
+photo_license: "Pexels License"
 ---
 
 Most cable management failures aren't about not trying — they're a handful of repeated mistakes that undo otherwise decent effort. Here's what to watch for.

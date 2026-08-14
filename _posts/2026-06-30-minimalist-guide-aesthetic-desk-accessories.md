@@ -3,7 +3,10 @@ title: "The Minimalist's Guide to Aesthetic Desk Accessories"
 date: 2026-06-30 09:00:00 +0800
 categories: [Storage]
 tags: [aesthetic desk accessories, cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/389819/pexels-photo-389819.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Ken Tomita"
+photo_credit_url: "https://www.pexels.com/@ken-tomita-127057/"
+photo_license: "Pexels License"
 ---
 
 Minimalist doesn't mean empty — it means every item earns its spot. Cable management fits naturally into that philosophy, since the goal is the same either way: remove what doesn't need to be visible, and make what's left intentional.

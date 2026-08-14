@@ -3,7 +3,10 @@ title: "Cable Management for Gaming Setups: Clean Up Your Desk"
 date: 2026-07-28 09:00:00 +0800
 categories: [Storage]
 tags: [cable management, aesthetic desk accessories]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/33888375/pexels-photo-33888375.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Atahan Demir"
+photo_credit_url: "https://www.pexels.com/@atahandemir/"
+photo_license: "Pexels License"
 ---
 
 A gaming desk tends to accumulate more cables than almost any other setup — a PC or console, one or two monitors, a mechanical keyboard, a mouse (even wireless ones need a charging cable eventually), a headset stand, and often RGB lighting controllers on top of all of it. Here's how to bring that under control without losing quick access to anything.

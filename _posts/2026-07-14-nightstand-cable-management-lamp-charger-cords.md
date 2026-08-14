@@ -3,7 +3,10 @@ title: "Nightstand Cable Management: Taming Lamp and Charger Cords"
 date: 2026-07-14 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider wall, aesthetic desk accessories]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/17994856/pexels-photo-17994856.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Osmany Mederos"
+photo_credit_url: "https://www.pexels.com/@osmany-mederos-211956483/"
+photo_license: "Pexels License"
 ---
 
 A nightstand usually has the same cable problem as a desk, just shrunk down: a lamp, a phone charger, maybe a white-noise machine or humidifier, all sharing one nearby outlet. Because it's the last thing you see before sleep and the first thing you see waking up, it's worth getting right.

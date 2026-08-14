@@ -3,7 +3,10 @@ title: "Childproofing Outlets and Cords: A Parent's Safety Checklist"
 date: 2026-06-22 09:00:00 +0800
 categories: [Storage]
 tags: [cord safety case child protect, outlet covers, child safety]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/6223621/pexels-photo-6223621.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Jep Gambardella"
+photo_credit_url: "https://www.pexels.com/@jep-gambardella/"
+photo_license: "Pexels License"
 ---
 
 Cable management for a home with a toddler is a different problem than cable management for a home office — the goal isn't just tidiness, it's keeping curious hands away from outlets and cords entirely. Here's a practical checklist, not a product dump.

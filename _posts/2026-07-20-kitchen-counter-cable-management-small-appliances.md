@@ -3,7 +3,10 @@ title: "Kitchen Counter Cable Management for Small Appliances"
 date: 2026-07-20 09:00:00 +0800
 categories: [Storage]
 tags: [wall outlet cover for cable management, cable management]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/38862129/pexels-photo-38862129.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Antonio Buljubasich"
+photo_credit_url: "https://www.pexels.com/@antonio-buljubasich-2163337541/"
+photo_license: "Pexels License"
 ---
 
 Kitchen counters are one of the few spaces where cable management collides directly with food prep, cleaning, and daily use — a coffee maker, a kettle, and a stand mixer cord all competing for counter space and outlet access, usually right where you need to wipe down the surface.

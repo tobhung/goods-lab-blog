@@ -3,7 +3,10 @@ title: "How to Hide TV Cables Without Cutting Into Drywall"
 date: 2026-06-14 09:00:00 +0800
 categories: [Storage]
 tags: [tv mount cable concealer, cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/9289294/pexels-photo-9289294.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Ahmet Polat"
+photo_credit_url: "https://www.pexels.com/@ibnulharezmi/"
+photo_license: "Pexels License"
 ---
 
 The cleanest-looking TV setups usually aren't hiding cables inside the wall — that's an in-wall power kit, an electrician, and a permanent modification most renters simply can't do. The good news is a tv mount cable concealer gets you 90% of that clean look with none of the commitment.

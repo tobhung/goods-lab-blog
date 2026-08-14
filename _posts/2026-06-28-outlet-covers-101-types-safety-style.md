@@ -3,7 +3,10 @@ title: "Outlet Covers 101: Types, Safety, and Style"
 date: 2026-06-28 09:00:00 +0800
 categories: [Storage]
 tags: [outlet covers, cord safety case child protect]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/3615711/pexels-photo-3615711.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "La Miko"
+photo_credit_url: "https://www.pexels.com/@lamiko/"
+photo_license: "Pexels License"
 ---
 
 "Outlet cover" means several different products depending on what problem you're solving — safety, style, or cable clutter. Here's the difference, since buying the wrong type is a common and easily avoidable mistake.

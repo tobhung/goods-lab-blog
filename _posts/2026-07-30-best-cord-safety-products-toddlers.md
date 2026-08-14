@@ -3,7 +3,10 @@ title: "The Best Cord Safety Products for Homes With Toddlers"
 date: 2026-07-30 09:00:00 +0800
 categories: [Storage]
 tags: [cord safety case child protect]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/3912436/pexels-photo-3912436.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Gustavo Fring"
+photo_credit_url: "https://www.pexels.com/@gustavo-fring/"
+photo_license: "Pexels License"
 ---
 
 Once a baby starts crawling and pulling up on furniture, cords go from background clutter to an active hazard within about a week. These are the specific product categories worth having in the house, not just a general "childproof the outlets" reminder.

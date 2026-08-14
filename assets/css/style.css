@@ -201,6 +201,16 @@ img { max-width: 100%; display: block; }
   box-shadow: var(--shadow);
 }
 
+.photo-credit {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  background: var(--surface);
+  margin: 0;
+  padding: 6px 12px;
+  text-align: right;
+}
+.photo-credit a { text-decoration: underline; }
+
 .post__content { font-size: 1.05rem; }
 .post__content h2 { font-size: 1.4rem; font-weight: 900; margin: 40px 0 16px; }
 .post__content h3 { font-size: 1.15rem; font-weight: 700; margin: 32px 0 12px; }

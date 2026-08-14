@@ -3,7 +3,10 @@ title: "How to Choose the Right Wall Outlet Cover for Your Room"
 date: 2026-07-18 09:00:00 +0800
 categories: [Storage]
 tags: [wall outlet cover, outlet covers]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/8101107/pexels-photo-8101107.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Nikita Nikitin"
+photo_credit_url: "https://www.pexels.com/@nikitaxnikitin/"
+photo_license: "Pexels License"
 ---
 
 The right wall outlet cover depends entirely on which room, and which problem, you're solving — a nursery and a home office need completely different things from the same-looking piece of plastic on the wall.

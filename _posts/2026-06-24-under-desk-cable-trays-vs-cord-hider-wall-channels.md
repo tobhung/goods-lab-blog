@@ -3,7 +3,10 @@ title: "Under-Desk Cable Trays vs. Cord Hider Wall Channels: Which Wins?"
 date: 2026-06-24 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider wall, cord management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/19197878/pexels-photo-19197878.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Minh Phuc"
+photo_credit_url: "https://www.pexels.com/@mintworkspace/"
+photo_license: "Pexels License"
 ---
 
 These solve two different parts of the same problem, and most desks actually need both — but if you can only budget for one right now, here's how to decide.

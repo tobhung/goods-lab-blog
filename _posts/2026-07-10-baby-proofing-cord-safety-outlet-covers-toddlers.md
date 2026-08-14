@@ -3,7 +3,10 @@ title: "Baby-Proofing 101: Cord Safety Cases and Outlet Covers for Toddlers"
 date: 2026-07-10 09:00:00 +0800
 categories: [Storage]
 tags: [cord safety case child protect, outlet covers]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/27177114/pexels-photo-27177114.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Helena Lopes"
+photo_credit_url: "https://www.pexels.com/@helenalopes/"
+photo_license: "Pexels License"
 ---
 
 By the time a baby becomes a mobile toddler, the list of things worth baby-proofing has grown a lot — and cords and outlets are near the top, because they're everywhere and a toddler's curiosity doesn't discriminate between a lamp cord and a toy.

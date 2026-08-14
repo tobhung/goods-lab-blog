@@ -3,7 +3,10 @@ title: "Renter-Friendly Cable Management: No Drilling Required"
 date: 2026-07-24 08:00:00 +0800
 categories: [Storage]
 tags: [cord hider wall, wall plate cable wall management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/36272732/pexels-photo-36272732.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Jan van der Wolf"
+photo_credit_url: "https://www.pexels.com/@jan-van-der-wolf-11680885/"
+photo_license: "Pexels License"
 ---
 
 Every product in this guide shares one requirement: nothing here needs a drill, a wall anchor, or a repair when you move out. If it can be removed cleanly and the wall left exactly as you found it, it made the list.

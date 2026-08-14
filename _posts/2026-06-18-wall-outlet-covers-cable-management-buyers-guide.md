@@ -3,7 +3,10 @@ title: "Wall Outlet Covers for Cable Management: A Buyer's Guide"
 date: 2026-06-18 09:00:00 +0800
 categories: [Storage]
 tags: [wall outlet cover, wall outlet cover for cable management, outlet covers]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/3615719/pexels-photo-3615719.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "La Miko"
+photo_credit_url: "https://www.pexels.com/@lamiko/"
+photo_license: "Pexels License"
 ---
 
 Not every outlet cover is created equal. The flat plastic plate that comes standard with most homes does exactly one job — cover the wiring — while a wall outlet cover built for cable management does that plus gives you somewhere to put the mess that normally piles up around a plug.

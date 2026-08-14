@@ -3,7 +3,10 @@ title: "Wall Plate Cable Management: What It Is and Why You Need One"
 date: 2026-07-04 09:00:00 +0800
 categories: [Storage]
 tags: [wall plate cable wall management, wall outlet cover]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/10117712/pexels-photo-10117712.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Keegan Checks"
+photo_credit_url: "https://www.pexels.com/@keeganjchecks/"
+photo_license: "Pexels License"
 ---
 
 "Wall plate cable management" sounds like a niche term, but it describes a very ordinary problem: the outlet cover on your wall wasn't designed to handle anything beyond covering the wiring, and every plug, adapter, and loop of slack cord around it is left in full view. A wall-plate-level fix addresses that directly, at the source, instead of routing cord elsewhere and leaving the outlet itself untouched.

@@ -16,6 +16,9 @@ layout: default
     {% if page.image %}
     <div class="review__hero-image">
       <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="eager">
+      {% if page.photo_credit %}
+      <p class="photo-credit">Photo by <a href="{{ page.photo_credit_url }}" target="_blank" rel="noopener">{{ page.photo_credit }}</a>{% if page.photo_license %}, {{ page.photo_license }}{% endif %}</p>
+      {% endif %}
     </div>
     {% endif %}
 

@@ -3,7 +3,10 @@ title: "The Ultimate Guide to Cable Management for Home Offices"
 date: 2026-06-12 09:00:00 +0800
 categories: [Storage]
 tags: [cable management, cord management, home office]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/20213730/pexels-photo-20213730.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Minh Phuc"
+photo_credit_url: "https://www.pexels.com/@mintworkspace/"
+photo_license: "Pexels License"
 ---
 
 A messy desk usually isn't about paperwork anymore — it's cords. Monitor cables, a charger for every device, a power strip feeding a power strip. Good cable management isn't about buying one magic product; it's a system, and once it's in place it takes almost no upkeep.

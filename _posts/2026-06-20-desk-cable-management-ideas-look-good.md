@@ -3,7 +3,10 @@ title: "Desk Cable Management Ideas That Actually Look Good"
 date: 2026-06-20 09:00:00 +0800
 categories: [Storage]
 tags: [aesthetic desk accessories, cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/10567170/pexels-photo-10567170.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Ron Lach"
+photo_credit_url: "https://www.pexels.com/@ron-lach/"
+photo_license: "Pexels License"
 ---
 
 Most cable management advice focuses purely on function — get the cords out of the way. That's necessary, but it's not sufficient if you actually look at your desk every day. These ideas double as aesthetic desk accessories, not just clutter fixes.

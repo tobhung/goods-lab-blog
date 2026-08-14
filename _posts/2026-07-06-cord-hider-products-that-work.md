@@ -3,7 +3,10 @@ title: "7 Cord Hider Products That Actually Solve Clutter"
 date: 2026-07-06 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider, cord hider wall]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/31886525/pexels-photo-31886525.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Andrey Matveev"
+photo_credit_url: "https://www.pexels.com/@zeleboba/"
+photo_license: "Pexels License"
 ---
 
 There's no shortage of cord hider products on the market, but a lot of them solve a problem you don't have while ignoring the one you do. These seven earn a spot because each targets a specific, common clutter point.

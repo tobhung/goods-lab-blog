@@ -3,7 +3,10 @@ title: "Dyson V8 Unboxing: What I Learned After a Full Month of Real Use"
 date: 2026-06-10 09:00:00 +0800
 categories: [Unboxing]
 tags: [Vacuum, Small Appliances, Dyson]
-image: /assets/images/posts/dyson-v8.svg
+image: https://images.pexels.com/photos/9462141/pexels-photo-9462141.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Liliana Drew"
+photo_credit_url: "https://www.pexels.com/@liliana-drew/"
+photo_license: "Pexels License"
 ---
 
 Between the pet hair and the carpeted rooms, our robot vacuum was never quite cutting it in the corners, so we finally caved and bought a Dyson V8. This is the unboxing writeup plus everything I learned after a full month of daily use — pros, cons, and whether it's actually worth the money.

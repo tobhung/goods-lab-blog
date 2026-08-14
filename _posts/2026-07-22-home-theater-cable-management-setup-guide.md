@@ -3,7 +3,10 @@ title: "Home Theater Cable Management: A Step-by-Step Setup Guide"
 date: 2026-07-22 09:00:00 +0800
 categories: [Storage]
 tags: [tv mount cable concealer, cable management]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/13348768/pexels-photo-13348768.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Avinash Kumar"
+photo_credit_url: "https://www.pexels.com/@avinash-kumar-299518778/"
+photo_license: "Pexels License"
 ---
 
 A home theater setup has more cables than almost any other room in the house — a TV or projector, a receiver, a soundbar or full speaker set, a streaming device, maybe a game console — and no cable management plan means it grows messier every time a component gets added or swapped. Here's a setup order that avoids that.

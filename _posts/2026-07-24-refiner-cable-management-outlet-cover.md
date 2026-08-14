@@ -4,7 +4,10 @@ title: "Refiner Cable Management Outlet Cover Review: The Simplest Fix for Cord 
 date: 2026-07-24 09:00:00 +0800
 categories: [Storage]
 tags: [Cable Management, Outlet Cover, Home Organization]
-image: /assets/images/posts/refiner-outlet-cover.svg
+image: https://images.pexels.com/photos/14681225/pexels-photo-14681225.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "billow926"
+photo_credit_url: "https://www.pexels.com/@billow926-2948812/"
+photo_license: "Pexels License"
 brand: Refiner
 best_for: Desks, nightstands, and kitchen counters with messy cords
 buy_url: "#"

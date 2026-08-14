@@ -3,7 +3,10 @@ title: "Best Cord Hider Wall Solutions for Renters"
 date: 2026-06-16 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider wall, cord hider, chord hider wall, renters]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/5544612/pexels-photo-5544612.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Tim Mossholder"
+photo_credit_url: "https://www.pexels.com/@timmossholder/"
+photo_license: "Pexels License"
 ---
 
 If you rent, "just run the cable through the wall" isn't really on the table. Every cord hider wall solution below works without drilling into studs, patching drywall, or doing anything your landlord would notice at move-out inspection.

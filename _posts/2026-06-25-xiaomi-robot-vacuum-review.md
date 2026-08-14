@@ -3,7 +3,10 @@ title: "Xiaomi Robot Vacuum-Mop Review: 3 Things That Decide If It's Worth It"
 date: 2026-06-25 09:00:00 +0800
 categories: [Unboxing]
 tags: [Robot Vacuum, Small Appliances, Xiaomi]
-image: /assets/images/posts/xiaomi-vacuum.svg
+image: https://images.pexels.com/photos/7641488/pexels-photo-7641488.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "MART PRODUCTION"
+photo_credit_url: "https://www.pexels.com/@mart-production/"
+photo_license: "Pexels License"
 ---
 
 Wanting your hands free without blowing the budget is usually the first reason people look at robot vacuums. Here's what I found after unboxing and living with a Xiaomi robot vacuum-mop — navigation, cleaning power, and the app experience, all in one place.

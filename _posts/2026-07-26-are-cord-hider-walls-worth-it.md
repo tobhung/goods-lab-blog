@@ -3,7 +3,10 @@ title: "Are Cord Hider Walls Worth It? Pros, Cons, and Alternatives"
 date: 2026-07-26 09:00:00 +0800
 categories: [Storage]
 tags: [cord hider wall, chord hider wall]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/18358118/pexels-photo-18358118.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Steve A Johnson"
+photo_credit_url: "https://www.pexels.com/@steve/"
+photo_license: "Pexels License"
 ---
 
 A cord hider wall channel is one of the more visible cable management purchases you can make — it sits right on the wall, in full view, unlike a tray tucked under a desk. That visibility is exactly why it's worth thinking through before buying, rather than grabbing the first one in search results.

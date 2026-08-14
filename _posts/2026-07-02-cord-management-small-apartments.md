@@ -3,7 +3,10 @@ title: "Cord Management for Small Apartments: Where to Even Start"
 date: 2026-07-02 09:00:00 +0800
 categories: [Storage]
 tags: [cord management, cable management, small apartment]
-image: /assets/images/posts/storage-tips.svg
+image: https://images.pexels.com/photos/36025790/pexels-photo-36025790.jpeg?auto=compress&cs=tinysrgb&w=1200
+photo_credit: "Image Hunter"
+photo_credit_url: "https://www.pexels.com/@image-hunter-281453274/"
+photo_license: "Pexels License"
 ---
 
 In a small apartment, cord clutter is more visible by default — there's less room for it to hide, and every wall and outlet is closer to somewhere you sit, sleep, or eat. Cord management here isn't optional the way it might feel in a bigger house. Here's a sane starting order.
